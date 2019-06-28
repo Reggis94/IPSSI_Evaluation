@@ -1,0 +1,3 @@
+Il faut aller sur Github. Dans les Settings du repository concerné on séléctionne Branch et on ajoute une régle de protection.
+Il faut cocher "Require status checks to pass before merging". 
+Et choisir Travis CI.
